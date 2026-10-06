@@ -34,7 +34,9 @@ Microbes that are able, under certain specific environmental conditions and foll
 
 ## In summaries, keep to one tense.
 
-The engineered *E. coli* strain was grown in a 5 L bioreactor for 24 hours. During this period, the glucose concentration decreased steadily, while the optical density increases from 0.2 to 8.4. At the end of the fermentation, the culture is harvested by centrifugation and the recombinant enzyme purified using affinity chromatography. The purified enzyme showed a specific activity of 42 U/mg and is suitable for use in the subsequent biocatalytic process.
+The engineered *E. coli* strain was grown in a 5 L bioreactor for 24 hours. 
+During this period, the glucose concentration decreased steadily, while the optical density increases from 0.2 to 8.4. At the end of the fermentation, the culture is harvested by centrifugation and the recombinant enzyme purified using affinity chromatography. 
+The purified enzyme showed a specific activity of 42 U/mg and is suitable for use in the subsequent biocatalytic process.
 
 ## Place the emphatic words of a sentence at the end.
 
