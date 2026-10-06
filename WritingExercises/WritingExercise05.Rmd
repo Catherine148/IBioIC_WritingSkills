@@ -5,15 +5,21 @@ title: "WritingExercise05"
 # Reflect on your own skills and development as a writer
 
 - What are the areas you think you are good at? Where can you improve?
+Good at recognising where technical terms need further description
 
 - How will you further develop your skills over the coming year? Can you make a specific, detailed plan?
+Read more scientific articles and practice coming up with concise summaries
 
 # Reflect on writing more generally
 
 - What principles of composition discussed today did you find most useful?
+Recognising when it's important to cut down unnecessary words
 
 - If you were going to formulate your own writing rules, what would they be?
+
 
 # Commit your reflections to writing
 
 Compose a paragraph summarizing your reflections. Remember to use the "commit" process to save your changes when you are finished.
+
+I still need to improve on extracting all the information and rearranging it to be more concise but still keeping the important information. I also need to get more familiar with when to use italics and capital letters when giving full species and gene names. I've improved at recognising where parts of the text need to be expanded, such as using technical terms in the introduction or abstract that may require further explanation
